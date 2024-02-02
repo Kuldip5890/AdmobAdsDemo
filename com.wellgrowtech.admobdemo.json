@@ -1,0 +1,20 @@
+{
+"status": "1",
+"message": "Success!",
+"ads": {
+"g_app_id": "ca-app-pub-1736206676052205~2953700934",
+"ads_status": "0",
+"banner": "ca-app-pub-1736206676052205/1007878658",
+"interstrial": "ca-app-pub-1736206676052205/4906104529",
+"fb_banner": "YOUR_PLACEMENT_ID",
+"fb_interstrial": "YOUR_PLACEMENT_ID",
+"gl_native_key": "ca-app-pub-1736206676052205/3201198665",
+"native": "YOUR_PLACEMENT_ID",
+"unity_id": "123",
+"version": "1.0",
+"start_app": "123",
+"open_ads": "ca-app-pub-1736206676052205/8014541649",
+"more_app_id": "461",
+"firebase_key": "android.test.purchased"
+}
+}
