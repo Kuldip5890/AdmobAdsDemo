@@ -1,20 +1,9 @@
 {
 "status": "0",
-"message": "Success!",
 "ads": {
-"g_app_id": "ca-app-pub-3940256099942544~3347511713",
-"ads_status": "0",
 "banner": "ca-app-pub-3940256099942544/6300978111",
 "interstrial": "ca-app-pub-3940256099942544/1033173712",
-"fb_banner": "YOUR_PLACEMENT_ID",
-"fb_interstrial": "YOUR_PLACEMENT_ID",
 "gl_native_key": "ca-app-pub-3940256099942544/2247696110",
-"native": "YOUR_PLACEMENT_ID",
-"unity_id": "123",
-"version": "1.0",
-"start_app": "123",
-"open_ads": "ca-app-pub-3940256099942544/9257395921",
-"more_app_id": "461",
-"firebase_key": "android.test.purchased"
+"open_ads": "ca-app-pub-3940256099942544/9257395921"
 }
 }
